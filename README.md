@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeffmcjeffers0n
+- 👋 Hi, I’m @olijeffers0n
 - 👀 I’m interested in Python & Minecraft Java Plugins
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: Ollie#0175 on discord
