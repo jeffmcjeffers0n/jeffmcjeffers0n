@@ -5,7 +5,7 @@
   - 👀 I’m interested in Python & Java
 </div>
 <div align = "center">
-  - 🌱 I’m currently learning Java and working on [Rustplus.py](https://github.com/olijeffers0n/rustplus)
+  - 🌱 I’m currently learning Java and working on <a href="https://github.com/olijeffers0n/rustplus">Rustplus.py</a>
 </div>
 <div align = "center">
   - 📫 How to reach me: Ollie#0175 on discord
