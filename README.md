@@ -11,7 +11,9 @@
   - 📫 How to reach me: Ollie#0175 on discord
   <div>
     <br>
-    <img src= "https://ko-fi.com/img/githubbutton_sm.svg" href = "https://ko-fi.com/O5O3ALGLJ">
+    <a href = "https://ko-fi.com/O5O3ALGLJ">
+      <img src= "https://ko-fi.com/img/githubbutton_sm.svg">
+    </a>
   </div>
 </div>
 <br>
