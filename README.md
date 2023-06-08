@@ -8,7 +8,7 @@
   - 🌱 I’m currently working on <a href="https://github.com/olijeffers0n/rustplus">Rustplus.py</a>
 </div>
 <div align = "center">
-  - 📫 How to reach me: `ollieee.` on discord
+  - 📫 Reach me on discord at: ollieee.
   <div>
     <br>
     <a href = "https://ko-fi.com/O5O3ALGLJ">
