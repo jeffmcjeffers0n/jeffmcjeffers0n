@@ -2,10 +2,13 @@
   - 👋 Hi, I’m @olijeffers0n
 </div>
 <div align = "center">
-  - 👀 I’m interested in Python & Java
+  - 👀 I’m Fluent in Python & Java
 </div>
 <div align = "center">
   - 🌱 I’m currently working on <a href="https://github.com/olijeffers0n/rustplus">Rustplus.py</a>
+</div>
+<div align = "center">
+  - You may see me around <a href="https://github.com/PaperMC">PaperMC</a> as part of the Triage team
 </div>
 <div align = "center">
   - 📫 Reach me on discord at: ollieee_
